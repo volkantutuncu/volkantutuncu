@@ -1,50 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="433" height="408" viewBox="0 0 433 408">
-<style>.ascii-line { font-family: "SF Mono","Fira Code",Consolas,monospace; font-size: 14px; fill: #39d353; white-space: pre; }</style>
-<rect width="433" height="408" fill="#0d1117"/>
-<clipPath id="clip0"><rect x="18" y="22" width="0" height="20"><animate attributeName="width" from="0" to="330" begin="0s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<svg xmlns="http://www.w3.org/2000/svg" width="452" height="408" viewBox="0 0 452 408">
+<style>.ascii-line { font-family: "SF Mono", "Fira Code", Consolas, monospace; font-size: 14px; fill: #39d353; white-space: pre; }</style>
+<rect width="452" height="408" fill="#0d1117"/>
+<clipPath id="clip0"><rect x="18" y="18" width="0" height="20"><animate attributeName="width" from="0" to="313.6" begin="0.0s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="32" class="ascii-line" clip-path="url(#clip0)">                    .:=+*#%%%%#*+=:.</text>
-<clipPath id="clip1"><rect x="18" y="38" width="0" height="20"><animate attributeName="width" from="0" to="398" begin="0.06s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip1"><rect x="18" y="34" width="0" height="20"><animate attributeName="width" from="0" to="415.2" begin="0.06s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="48" class="ascii-line" clip-path="url(#clip1)">               .-+#%@@@@@@@@@@@@@@@@%#+-.</text>
-<clipPath id="clip2"><rect x="18" y="54" width="0" height="20"><animate attributeName="width" from="0" to="415" begin="0.12s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip2"><rect x="18" y="50" width="0" height="20"><animate attributeName="width" from="0" to="415.2" begin="0.12s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="64" class="ascii-line" clip-path="url(#clip2)">            :+%@@@@@@%#*++++*#%@@@@@@@%+:</text>
-<clipPath id="clip3"><rect x="18" y="70" width="0" height="20"><animate attributeName="width" from="0" to="397" begin="0.18s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip3"><rect x="18" y="66" width="0" height="20"><animate attributeName="width" from="0" to="397.2" begin="0.18s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="80" class="ascii-line" clip-path="url(#clip3)">          =%@@@@%*-.            .-*%@@@@%=</text>
-<clipPath id="clip4"><rect x="18" y="86" width="0" height="20"><animate attributeName="width" from="0" to="382" begin="0.24s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip4"><rect x="18" y="82" width="0" height="20"><animate attributeName="width" from="0" to="382.2" begin="0.24s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="96" class="ascii-line" clip-path="url(#clip4)">        -%@@@#-      .:=+**+=:.      -#@@@%-</text>
-<clipPath id="clip5"><rect x="18" y="102" width="0" height="20"><animate attributeName="width" from="0" to="365" begin="0.3s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip5"><rect x="18" y="98" width="0" height="20"><animate attributeName="width" from="0" to="365.2" begin="0.3s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="112" class="ascii-line" clip-path="url(#clip5)">       *@@@#.     :+%@@@@@@@@@%+:     .#@@@*</text>
-<clipPath id="clip6"><rect x="18" y="118" width="0" height="20"><animate attributeName="width" from="0" to="370" begin="0.36s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip6"><rect x="18" y="114" width="0" height="20"><animate attributeName="width" from="0" to="370.2" begin="0.36s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="128" class="ascii-line" clip-path="url(#clip6)">      #@@%:     -%@@@#-.    .-#@@@%-     :%@@#</text>
-<clipPath id="clip7"><rect x="18" y="134" width="0" height="20"><animate attributeName="width" from="0" to="382" begin="0.42s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip7"><rect x="18" y="130" width="0" height="20"><animate attributeName="width" from="0" to="382.2" begin="0.42s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="144" class="ascii-line" clip-path="url(#clip7)">     #@@#     .#@@#.    ==      .#@@#.     #@@#</text>
-<clipPath id="clip8"><rect x="18" y="150" width="0" height="20"><animate attributeName="width" from="0" to="370" begin="0.48s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip8"><rect x="18" y="146" width="0" height="20"><animate attributeName="width" from="0" to="370.2" begin="0.48s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="160" class="ascii-line" clip-path="url(#clip8)">    +@@#     .%@%:    -@@@@-      :%@%.    #@@+</text>
-<clipPath id="clip9"><rect x="18" y="166" width="0" height="20"><animate attributeName="width" from="0" to="365" begin="0.54s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip9"><rect x="18" y="162" width="0" height="20"><animate attributeName="width" from="0" to="365.2" begin="0.54s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="176" class="ascii-line" clip-path="url(#clip9)">    %@%     :@@%.    *@@@@@@*      .%@@:    %@%</text>
-<clipPath id="clip10"><rect x="18" y="182" width="0" height="20"><animate attributeName="width" from="0" to="356" begin="0.6s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip10"><rect x="18" y="178" width="0" height="20"><animate attributeName="width" from="0" to="356.2" begin="0.6s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="192" class="ascii-line" clip-path="url(#clip10)">    @@+     %@#     #@@@@@@@@#      .#@%    +@@</text>
-<clipPath id="clip11"><rect x="18" y="198" width="0" height="20"><animate attributeName="width" from="0" to="365" begin="0.66s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip11"><rect x="18" y="194" width="0" height="20"><animate attributeName="width" from="0" to="365.2" begin="0.66s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="208" class="ascii-line" clip-path="url(#clip11)">    @@:    +@%.    -@@@@@@@@@@-      .%@+    :@@</text>
-<clipPath id="clip12"><rect x="18" y="214" width="0" height="20"><animate attributeName="width" from="0" to="365" begin="0.72s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip12"><rect x="18" y="210" width="0" height="20"><animate attributeName="width" from="0" to="365.2" begin="0.72s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="224" class="ascii-line" clip-path="url(#clip12)">    @@:    %@:     %@@@@@@@@@@%      .+@%    :@@</text>
-<clipPath id="clip13"><rect x="18" y="230" width="0" height="20"><animate attributeName="width" from="0" to="356" begin="0.78s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip13"><rect x="18" y="226" width="0" height="20"><animate attributeName="width" from="0" to="356.2" begin="0.78s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="240" class="ascii-line" clip-path="url(#clip13)">    %@%    %@.     %@@@@@@@@@@%       %@:    %@%</text>
-<clipPath id="clip14"><rect x="18" y="246" width="0" height="20"><animate attributeName="width" from="0" to="365" begin="0.84s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip14"><rect x="18" y="242" width="0" height="20"><animate attributeName="width" from="0" to="365.2" begin="0.84s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="256" class="ascii-line" clip-path="url(#clip14)">    +@@+   +@%     #@@@@@@@@@@#      +@%    +@@+</text>
-<clipPath id="clip15"><rect x="18" y="262" width="0" height="20"><animate attributeName="width" from="0" to="365" begin="0.9s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip15"><rect x="18" y="258" width="0" height="20"><animate attributeName="width" from="0" to="365.2" begin="0.9s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="272" class="ascii-line" clip-path="url(#clip15)">     #@@#   -@@=    -@@@@@@@@-     -@@=   .#@@#</text>
-<clipPath id="clip16"><rect x="18" y="278" width="0" height="20"><animate attributeName="width" from="0" to="356" begin="0.96s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip16"><rect x="18" y="274" width="0" height="20"><animate attributeName="width" from="0" to="356.2" begin="0.96s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="288" class="ascii-line" clip-path="url(#clip16)">      #@@%:   -%@%=.  :=++=:   .=%@%-   :%@@#</text>
-<clipPath id="clip17"><rect x="18" y="294" width="0" height="20"><animate attributeName="width" from="0" to="330" begin="1.02s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip17"><rect x="18" y="290" width="0" height="20"><animate attributeName="width" from="0" to="330.2" begin="1.02s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="304" class="ascii-line" clip-path="url(#clip17)">       *@@@#:    :=#%@@@@@@%#=:    :#@@@*</text>
-<clipPath id="clip18"><rect x="18" y="310" width="0" height="20"><animate attributeName="width" from="0" to="320" begin="1.08s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip18"><rect x="18" y="306" width="0" height="20"><animate attributeName="width" from="0" to="320.2" begin="1.08s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="320" class="ascii-line" clip-path="url(#clip18)">        -%@@@%=:       ..       :=%@@@%-</text>
-<clipPath id="clip19"><rect x="18" y="326" width="0" height="20"><animate attributeName="width" from="0" to="320" begin="1.14s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip19"><rect x="18" y="322" width="0" height="20"><animate attributeName="width" from="0" to="320.2" begin="1.14s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="336" class="ascii-line" clip-path="url(#clip19)">          =%@@@@%*-.       .-*%@@@@%=</text>
-<clipPath id="clip20"><rect x="18" y="342" width="0" height="20"><animate attributeName="width" from="0" to="365" begin="1.2s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip20"><rect x="18" y="338" width="0" height="20"><animate attributeName="width" from="0" to="365.2" begin="1.2s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="352" class="ascii-line" clip-path="url(#clip20)">            :+%@@@@@@%#*++*#%@@@@@@%+:</text>
-<clipPath id="clip21"><rect x="18" y="358" width="0" height="20"><animate attributeName="width" from="0" to="340" begin="1.26s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip21"><rect x="18" y="354" width="0" height="20"><animate attributeName="width" from="0" to="340.2" begin="1.26s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="368" class="ascii-line" clip-path="url(#clip21)">               .-+#%@@@@@@@@@@%#+-.</text>
-<clipPath id="clip22"><rect x="18" y="374" width="0" height="20"><animate attributeName="width" from="0" to="280" begin="1.32s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
+<clipPath id="clip22"><rect x="18" y="370" width="0" height="20"><animate attributeName="width" from="0" to="280.2" begin="1.32s" dur="0.6s" fill="freeze" calcMode="linear"/></rect></clipPath>
 <text x="20" y="384" class="ascii-line" clip-path="url(#clip22)">                    .:=+*##*+=:.</text>
 </svg>
